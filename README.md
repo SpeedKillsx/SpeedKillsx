@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpeedKillsx.
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and programming.
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Game Development.
 - 🌱 I’m currently learning some skills in Deep learning.
  
 
