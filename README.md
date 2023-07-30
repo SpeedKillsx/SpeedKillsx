@@ -2,10 +2,9 @@
 ### `Computer vision and artificial intelligence enthusiastt`
 Hey there, I'm Amayas Labchri! A computer science student who is freshly computer science graduate and a total enthusiast about computer vision, artificial intelligence and game development. 🎮 🚀
 <br/>
-
+<img align="right" src="https://github.com/SpeedKillsx/SpeedKillsx/blob/main/giphy.gif" alt="animated" height="400" width="400"  />
+<br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=SpeedKillsx&label=Profile%20views&color=0e75b6&style=flat" alt="SpeedKillsx" /> 
-<img align="right"src="https://github.com/SpeedKillsx/SpeedKillsx/blob/main/giphy.gif" alt="animated" height="400" width="400"  />
-
 <br/>
 <h1 align="center" >🧰Languages and Tools</h1>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
