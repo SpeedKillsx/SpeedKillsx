@@ -55,9 +55,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpeedKillsx&show_icons=true&theme=transparent" alt="Amayas's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SpeedKillsx&show=reviews&theme=calm" alt="SpeedKillsx's Stats"/></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedKillsx&hide_progress=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedKillsx&hide_progress=false&theme=calm" alt="Top Langs" />
 </p>
